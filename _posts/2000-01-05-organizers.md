@@ -6,7 +6,7 @@ fa-icon: user
 style: center
 ---
 
-# Organized by:  
+# Organized by  
 
 #### [Alexey Zagalsky](http://alexeyza.com/)  
 
