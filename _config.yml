@@ -19,8 +19,7 @@ keywords:    "research, seminar, software engineering"
 description: "A research seminar focusing on advanced topics in software engineering."
 favicon:     "img/favicon.ico"
 #touch_icon:  "img/apple-touch-icon.png"
-# google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-
+google_analytics_key: UA-54265697-3
 
 ### template colors, used site-wide via css ###
 colors:
