@@ -8,7 +8,7 @@ style: center
 
 # Organized by  
 
-#### Omar Elazhary 
+#### [Omar Elazhary]() 
 
 #### [Alexey Zagalsky](http://alexeyza.com/)  
 
