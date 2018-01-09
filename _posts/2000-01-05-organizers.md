@@ -8,7 +8,7 @@ style: center
 
 # Organized by
 
-#### [Omar Elazhary](omazhary.github.io) [2017-2018]
+#### [Omar Elazhary](https://omazhary.github.io) [2017-2018]
 
 #### [Alexey Zagalsky](http://alexeyza.com/) [2016-2017]
 
