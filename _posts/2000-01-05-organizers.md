@@ -6,10 +6,10 @@ fa-icon: user
 style: center
 ---
 
-# Organized by  
+# Organized by
 
-#### [Omar Elazhary]() [2017]  
+#### [Omar Elazhary](omazhary.github.io) [2017-2018]
 
-#### [Alexey Zagalsky](http://alexeyza.com/) [2016-2017]  
+#### [Alexey Zagalsky](http://alexeyza.com/) [2016-2017]
 
-#### [Lorena Castañeda](http://www.rigiresearch.com/people/lorena-castaneda) [2016]  
+#### [Lorena Castañeda](http://www.rigiresearch.com/people/lorena-castaneda) [2016]
